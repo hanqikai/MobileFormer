@@ -5,12 +5,12 @@ PaddlePaddle training/validation code for MobileFormer.
 <table>
     <tr>
         <td style="text-align:center">
-            <img src='./mobileformer_arch.png'>
+            <img src='https://s1.ax1x.com/2022/10/10/xtkdNq.png'>
             <br>
             <h3>MobileFormer Model Overview</h3>
         </td>
         <td style="text-align:center">
-            <img src='./mbileformer_block.png'>
+            <img src='https://s1.ax1x.com/2022/10/10/xtk6u4.png'>
             <br>
             <h3>MobileFormer Sub-Block Overview</h3>
         </td>
